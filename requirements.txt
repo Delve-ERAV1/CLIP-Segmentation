@@ -1,0 +1,5 @@
+torch
+pillow
+gradio
+torchvision
+git+https://github.com/openai/CLIP.git
